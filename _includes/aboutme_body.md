@@ -42,7 +42,7 @@ This blog will primarily feature posts on:
 Lastly, I’ve recently launched an English version of my blog, named `Easy AI Blog`. I'd love for you  to check it out!!😃 (Link: https://johnjaejunlee95.github.io/) -->
 
 <div style="text-align: center;">
-  <a href="mailto:johnjaejunlee95@unist.ac.kr" style="text-decoration: none; margin-right: 15px;">
+  <a href="mailto:johnjaejunlee@gmail.com" style="text-decoration: none; margin-right: 15px;">
     <i class="fas fa-envelope"></i> Email
   </a>
   <a href="https://www.github.com/johnjaejunlee95" style="text-decoration: none; margin-right: 15px;">

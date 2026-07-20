@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "beautiful-jekyll-theme"
   spec.version       = "6.0.1"
   spec.authors       = ["Jae-Jun Lee"]
-  spec.email         = ["johnjaejunlee95@unist.ac.kr"]
+  spec.email         = ["johnjaejunlee@gmail.com"]
 
   spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
   spec.homepage      = "https://johnjaejunlee95.github.io"

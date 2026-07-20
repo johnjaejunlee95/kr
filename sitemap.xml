@@ -19,9 +19,11 @@ permalink: /sitemap.xml
 
   {% for page in site.pages %}
     {% assign u = page.url | remove: "index.html" %}
-    {% unless u contains ".xml"
+    {% unless page.sitemap == false
+          or u contains ".xml"
           or u contains "assets"
           or u contains ".css"
+          or u contains ".json"
           or u contains "/google"
           or page.name == "404.html"
           or page.name == "feed.xml"

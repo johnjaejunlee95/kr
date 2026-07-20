@@ -1,6 +1,6 @@
 ---
 layout: post
-gh-repo: johnjaejunlee95/johnjaejunlee95.github.io
+gh-repo: johnjaejunlee95/kr
 gh-badge: [star, follow]
 comments: true
 author: johnjaejunlee95
@@ -188,8 +188,8 @@ $$
 
 <center>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/images/25-11-30/wd_lr_decay.png" style="width: 48%;">
-    <img src="/images/25-11-30/wd_lr_decay_v2.png" style="width: 48%;">
+    <img src="{{ '/images/25-11-30/wd_lr_decay.png' | relative_url }}" style="width: 48%;">
+    <img src="{{ '/images/25-11-30/wd_lr_decay_v2.png' | relative_url }}" style="width: 48%;">
   </div>
   <figcaption>
     <a id='figure1'>Figure 1. Comparison of WD settings on cosine LR decay</a>
@@ -209,8 +209,8 @@ $$
 
 <center>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="/images/25-11-30/train_validation_loss_WD.png" style="width: 45%; height: 45%">
-    <img src="/images/25-11-30/wd_lr_decay_v3.png" style="width: 54%; height: 54%">
+    <img src="{{ '/images/25-11-30/train_validation_loss_WD.png' | relative_url }}" style="width: 45%; height: 45%">
+    <img src="{{ '/images/25-11-30/wd_lr_decay_v3.png' | relative_url }}" style="width: 54%; height: 54%">
   </div>
   <figcaption>
     <a id='figure2'>Figure 2. WD on Constant LR</a>

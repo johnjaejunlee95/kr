@@ -11,6 +11,7 @@
 
 # Name of website
 title: "소소한 AI 블로그"
+language: ko
 
 # Your name to show in the footer
 author: johnjaejunlee95
@@ -108,10 +109,11 @@ share-links-active:
   vk: false
 
 url: "https://johnjaejunlee95.github.io"
+baseurl: "/kr"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "johnjaejunlee.github.io"
+url-pretty: "johnjaejunlee95.github.io/kr"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -178,8 +180,6 @@ footer-hover-col: "#0085A1"
 #################################
 # --- Web Analytics Section --- #
 #################################
-
-google_site_verification: GK3aeQFcmAR8D_ez5zbm0P8bfnIssKL1kF-jSvJNoL0
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
 gtag: "G-5Q72R0DG2Q"
@@ -336,4 +336,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

@@ -139,6 +139,12 @@
   <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
+  {% if page.url == '/' %}
+  <link rel="alternate" hreflang="en" href="https://johnjaejunlee95.github.io/">
+  <link rel="alternate" hreflang="ko" href="https://johnjaejunlee95.github.io/kr/">
+  <link rel="alternate" hreflang="x-default" href="https://johnjaejunlee95.github.io/">
+  {% endif %}
+
   {% if img != "" and img != site.avatar %}
   <meta name="twitter:card" content="summary_large_image">
   {% else %}
@@ -163,7 +169,7 @@
   {% assign favicon_exists = site.static_files | where: "path", "/images/logo_images/profile.jpg" | size %}
   {% if favicon_exists == 1 %}
   <!-- <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" /> -->
-  <link rel="icon" type="image/jpg" href="/images/logo_images/profile.jpg">
+  <link rel="icon" type="image/jpg" href="{{ '/images/logo_images/profile.jpg' | relative_url }}">
 
   {% endif %}
 

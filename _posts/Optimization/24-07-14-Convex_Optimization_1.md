@@ -1,7 +1,7 @@
 ---
 
 layout: post
-gh-repo: johnjaejunlee95/johnjaejunlee95.github.io
+gh-repo: johnjaejunlee95/kr
 gh-badge: [star,follow]
 comments: true
 author: johnjaejunlee95
@@ -70,7 +70,7 @@ $$f \left ( \frac{1}{T} \sum_{k=1}^T x_k  \right) - f(x^{\star}) \leq \frac{|| x
 
 우선 문제를 해결하기 위해선 convex sets에 대해서 projection 하는 방법으로 해결할 수 있습니다. 즉 다음 그림과 같은 inequality를 만족시켜 나가는 형태로 전개할 수 있습니다 (글을 발로 적었음을 미리 말씀드립니다..ㅠㅠ) 
 
-![](/images/24-07-24/convex_1.png)
+![]({{ '/images/24-07-24/convex_1.png' | relative_url }})
 
 즉, convex sets에 대해서 projection했을 때, projection 위치 $\pi_c (z)$에 대한 $x$와 $z$의 inner product는 항상 음수(둔각)가 나오고 이를 피타고라스 식을 활용하면 $\mid\mid \pi_c (z)  - x\mid\mid \leq \mid\mid z - x \mid\mid$ 의 inequality가 성립합니다.  또한 나중에 proof 전개 시 피타고라스 정리를 다음과 같이 활용할 예정입니다: $\mathbf{\left<a,b\right> = \frac{1}{2}(\mid\mid a\mid\mid^2 + \mid\mid b\mid\mid ^2 -\mid\mid a-b\mid\mid ^2)}$)
 
@@ -168,7 +168,7 @@ $$
 
 마지막으로 GD에 대한 assumption에 따른 convergence rate 표를 소개하면서 마치겠습니다.
 
-<img src="/images/24-07-24/convex_2.png" style="zoom:50%;" />
+<img src="{{ '/images/24-07-24/convex_2.png' | relative_url }}" style="zoom:50%;" />
 
 
 

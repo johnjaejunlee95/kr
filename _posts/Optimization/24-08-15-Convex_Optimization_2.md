@@ -1,7 +1,7 @@
 ---
 
 layout: post
-gh-repo: johnjaejunlee95/johnjaejunlee95.github.io
+gh-repo: johnjaejunlee95/kr
 gh-badge: [star,follow]
 comments: true
 author: johnjaejunlee95
@@ -23,7 +23,7 @@ sidebar:
 
 <div>두번째 optimization 관련 post로 돌아왔습니다!! 이번에는 지난번에 function이 L-lipschitz일 때 어떻게 전개되는지, 어떻게 converge되는지 살펴보았는데요. 이번에는 좀 더 강한 constraint / assumption이 들어갈 때 어떻게 되는지 살펴보도록 하겠습니다. 그럼 거두절미하고 바로 들어가보도록 하겠습니다!! :smiley: </div>
 
-### $\star$ Recap [(이전 Post)](https://johnjaejunlee95.github.io/Optimization_1/)
+### $\star$ Recap [(이전 Post)](https://johnjaejunlee95.github.io/kr/Optimization_1/)
 
 이전 post에서 어떤 function이 <mark style="background: orange">convex</mark> + $L$-lipschitz이라고 가정했을 때 다음과 같은 Theorem이 나왔습니다:
 

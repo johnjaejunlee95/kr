@@ -2,7 +2,7 @@ eyebrow: "AI Researcher"
 name: "Jae-Jun Lee"
 headline: "Ph.D. Candidate @ Graduate School of Artificial Intelligence, UNIST"
 summary_ko: "안녕하세요! 저는 AI 모델이 학습하고 일반화되는 원리를 이론적으로 이해하는 연구 중인 5년차 석박통합과정 학생입니다. 이전에는 Meta-Learning, 그리고 현재는 Multimodal Learning 및 robustness 쪽으로 연구 중입니다. 더 나아가 EEG와 같은 bio-signal data 기반의 AI application 관련 연구를 하고 있습니다."
-summary_en: '제가 영문 블로그도 같이 운영 중에 있는데, 여기 <a href="https://johnjaejunlee95.github.io/en/" target="_blank" rel="noopener noreferrer">링크</a>에서 확인하실 수 있습니다.'
+summary_en: '제가 영문 블로그도 같이 운영 중에 있는데, 여기 <a href="https://johnjaejunlee95.github.io/" target="_blank" rel="noopener noreferrer">링크</a>에서 확인하실 수 있습니다.'
 # "Hi, this is Jae-Jun Lee. My major focus is in how AI models learn and generalize, with interests in meta-learning and multimodal learning. My recent research explores robustness and generalization in multimodal learning (Core AI), and AI + applications (AI + X) for bio-signals, such as EEG and NIRS."
 location: "Ulsan, South Korea"
 focus_keywords:
@@ -26,7 +26,7 @@ links:
     url: "https://www.facebook.com/johnjaejunlee"
   - label: "English Blog"
     icon: "fas fa-globe"
-    url: "https://johnjaejunlee95.github.io/en/"
+    url: "https://johnjaejunlee95.github.io/"
 
 news:
   - date: "2026"

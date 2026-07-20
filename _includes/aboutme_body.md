@@ -16,7 +16,7 @@
 * **Mathematics for AI** (AI를 위한 수학)
 * **Paper Reviews** (좋은 논문 리뷰)
 
-마지막으로 최근에 영어 버전 blog도 오픈했습니다. 많은 관심 부탁드립니다!! [Link](https://johnjaejunlee95.github.io/en/)
+마지막으로 최근에 영어 버전 blog도 오픈했습니다. 많은 관심 부탁드립니다!! [Link](https://johnjaejunlee95.github.io/)
 
 ---
 <!-- 
@@ -39,7 +39,7 @@ This blog will primarily feature posts on:
 * **Essential Mathematics for AI**
 * **Paper Reviews**
 
-Lastly, I’ve recently launched an English version of my blog, named `Easy AI Blog`. I'd love for you  to check it out!!😃 (Link: https://johnjaejunlee95.github.io/en/) -->
+Lastly, I’ve recently launched an English version of my blog, named `Easy AI Blog`. I'd love for you  to check it out!!😃 (Link: https://johnjaejunlee95.github.io/) -->
 
 <div style="text-align: center;">
   <a href="mailto:johnjaejunlee95@unist.ac.kr" style="text-decoration: none; margin-right: 15px;">

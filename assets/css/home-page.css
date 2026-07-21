@@ -202,6 +202,11 @@
   margin-bottom: 0.55rem;
 }
 
+.news-list li {
+  display: flex;
+  align-items: baseline;
+}
+
 .news-list li:last-child,
 .pub-list li:last-child,
 .exp-list li:last-child {
@@ -209,6 +214,7 @@
 }
 
 .news-date {
+  flex: 0 0 54px;
   display: inline-flex;
   margin-right: 0.55rem;
   min-width: 54px;
@@ -219,6 +225,12 @@
   color: #475569;
   font-size: 0.77rem;
   font-weight: 700;
+}
+
+.news-list li > a,
+.news-list li > span:not(.news-date) {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .news-list a,

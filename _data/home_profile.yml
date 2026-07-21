@@ -30,11 +30,14 @@ links:
 
 news:
   - date: "2026"
-    text: "ICML 2026 paper accepted: Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective."
+    text: "Selected as an 🔥ICML 2026 Gold Reviewer (Top 25%)🔥"
+    link: ""
+  - date: "2026"
+    text: "ICML 2026 paper accepted: Understanding Multimodal Learning: A Loss Landscape Smoothness Perspective"
     link: "https://openreview.net/forum?id=2htwc6cHmu"
   - date: "2025"
     text: "ICLR 2025 paper accepted: Can One Modality Model Synergize Training of Other Modality Models?"
     link: "https://openreview.net/forum?id=5BXWhVbHAK"
   - date: "2024"
-    text: "AISTATS 2024 paper accepted: XB-MAML: Learning Expandable Basis Parameters for Effective Meta-Learning with Wide Task Coverage."
+    text: "AISTATS 2024 paper accepted: XB-MAML: Learning Expandable Basis Parameters for Effective Meta-Learning with Wide Task Coverage"
     link: "https://proceedings.mlr.press/v238/lee24a/lee24a.pdf"
